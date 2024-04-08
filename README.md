@@ -1,7 +1,5 @@
-![MasterHead](https://www.bing.com/th/id/OGC.3b1a363e57636d364c1c3e2d183f5e4f?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fsimon-zerisenay%2fsimon-zerisenay%2fmain%2fwork.gif&ehk=IbNENbCnBHnONHSTdpzdfTGryD7gTdz3%2b9kasjhtlm4%3d)
-<h1 align="center">Hi 👋, I'm Wajahat Ali</h1>
-<h3 align="center">Aspiring software engineer, DevTech enthusiastic.</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.03a89c7e9ddcf097525ec86c5d9dea72?rik=EGhjb7dh9lNR6w&pid=ImgRaw&r=0" />
+<h1 align="center">Hello there👋, I'm Wajahat</h1>
+<h3 align="center">Computer Science student | Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
 
