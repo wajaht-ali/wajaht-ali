@@ -1,4 +1,4 @@
-![MasterHead](https://www.bing.com/th/id/OGC.c99e353f761d318322c853c03ebcf21b?pid=1.7&rurl=https%3a%2f%2fengineering.giphy.com%2fwp-content%2fuploads%2f2017%2f06%2fapi.gif&ehk=mTEGhmvXABNEuGapw4f7Hy4F%2f8HFigxniKPLLUebXfo%3d)
+![MasterHead](https://www.bing.com/th/id/OGC.3b1a363e57636d364c1c3e2d183f5e4f?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fsimon-zerisenay%2fsimon-zerisenay%2fmain%2fwork.gif&ehk=IbNENbCnBHnONHSTdpzdfTGryD7gTdz3%2b9kasjhtlm4%3d)
 <h1 align="center">Hi 👋, I'm Wajahat Ali</h1>
 <h3 align="center">Aspiring software engineer, DevTech enthusiastic.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.03a89c7e9ddcf097525ec86c5d9dea72?rik=EGhjb7dh9lNR6w&pid=ImgRaw&r=0" />
