@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wajahat Ali</h1>
-<h3 align="center">ASE Intern @ AlrightTech</h3>
+<h3 align="center">Associate Software Engineer @ Sparkleo Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
 
