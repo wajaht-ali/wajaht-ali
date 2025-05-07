@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wajahat</h1>
-<h3 align="center">Junior Software Engineer @ MimAR Studios</h3>
+<h3 align="center">Junior Software Engineer @ mimAR Studios</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.wajahat-dev.vercel.app](https://www.wajahat-dev.vercel.app)
 
-- 💬 Ask me about **C++, Reactjs, MERN stack**
+- 💬 Ask me about **Web Engineering, Problem-solving, Career growth**
 
 - 📫 How to reach me **contact.chwajahat@gmail.com**
 
