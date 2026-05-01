@@ -1,34 +1,65 @@
-<h1 align="center">Hi 👋, I'm Wajahat</h1>
-<h3 align="center">Software Engineer @ mimAR Studios</h3>
+<div align="center">
+  <h1>Hi there, I'm Wajahat 👋</h1>
+  <h3>Software Engineer @ mimAR Studios</h3>
+  <p><em>Fullstack Developer | Vyro AI Hackathon Winner 🏆 | Building CodeCommit 🚀</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20views&color=0e75b6&style=flat" alt="wajaht-ali" /> </p>
+  <p align="center">
+    <a href="https://wajaht.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/wajhat-ali" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/chwajahtali" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:contact.chwajahat@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.hackerrank.com/contact_chwajah1" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+    <a href="https://www.leetcode.com/wajaht_ali" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/chwajahtali" target="blank"><img src="https://img.shields.io/twitter/follow/chwajahtali?logo=twitter&style=for-the-badge" alt="chwajahtali" /></a> </p>
+<br/>
 
-- 🌱 I enjoy simplifying **complex problems** into **logical ideas** to build & develop, of course over a cup of coffee ☕.
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://www.wajahat-dev.vercel.app](https://www.wajahat-dev.vercel.app)
+- 🚀 Currently building **[CodeCommit](https://github.com/wajaht-ali/commit-client)**, a real-time collaborative code editor (Migrating to **Next.js & Shadcn UI**).
+- 💡 I specialize in simplifying complex problems into logical ideas to build scalable systems—usually over a cup of coffee ☕.
+- 💬 Ask me about **Web Engineering, System Architecture, Problem-solving, & Career Growth**.
+- ⚡ Fun fact: I'm the ice-breaker in the room, highly adaptive, and an extroverted developer!
 
-- 💬 Ask me about **Web Engineering, Problem-solving, Career growth**
+<br/>
 
-- 📫 How to reach me **contact.chwajahat@gmail.com**
+## 🛠️ Languages & Tools
 
-- ⚡ Fun fact **The Ice breaker, Adaptive, Extrovert!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chwajahtali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chwajahtali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wajhat-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wajhat-ali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wajahat-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wajahat-1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/contact_chwajah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="contact_chwajah1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wajaht_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wajaht_ali" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- You can add/remove tools from the list in the URL below (e.g., docker, figma, etc.) -->
+    <img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,postman&perline=6" alt="Tech Stack"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajaht-ali&show_icons=true&locale=en&layout=compact" alt="wajaht-ali" /></p>
+## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajaht-ali&show_icons=true&locale=en" alt="wajaht-ali" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wajaht-ali&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajaht-ali&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top Languages" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajaht-ali&" alt="wajaht-ali" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajaht-ali&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wajaht-ali&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
