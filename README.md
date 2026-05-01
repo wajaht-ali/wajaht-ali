@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajaht-ali&hide_border=true&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajaht-ali&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="GitHub Streak" />
 </div>
 
 <br/>
