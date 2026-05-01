@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Wajahat 👋</h1>
   <h3>Software Engineer @ mimAR Studios</h3>
-  <p><em>Fullstack Developer | Vyro AI Hackathon Winner 🏆 | Building CodeCommit 🚀</em></p>
+  <p>Fullstack Developer | <b></b>Vyro AI Hackathon Winner 🏆</b> | Building CodeCommit 🚀</p>
 
   <p align="center">
     <a href="https://wajaht.vercel.app" target="_blank">
@@ -49,10 +49,10 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wajaht-ali&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajaht-ali&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajaht-ali&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="GitHub Streak" />
