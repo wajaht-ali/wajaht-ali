@@ -10,17 +10,11 @@
     <a href="https://linkedin.com/in/wajhat-ali" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/chwajahtali" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:contact.chwajahat@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://www.leetcode.com/wajaht_ali" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <a href="https://www.hackerrank.com/contact_chwajah1" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
-    <a href="https://www.leetcode.com/wajaht_ali" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
   </p>
 </div>
