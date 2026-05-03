@@ -13,9 +13,6 @@
     <a href="https://www.leetcode.com/wajaht_ali" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
-    <a href="https://www.hackerrank.com/contact_chwajah1" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
   </p>
 </div>
 
